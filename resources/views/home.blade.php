@@ -236,8 +236,8 @@
                 <div class="">
                     <h3 class="bold mt-5">Social Media</h3>
                     <div class="fs-3">
-                        <a href="https://www.instagram.com/dustmarijn/" target="_blank"><i class="fab fa-linkedin"></i></a>
-                        <a href="https://www.linkedin.com/in/marijnboeve/" target="_blank"><i
+                        <a href="https://www.linkedin.com/in/marijnboeve/" target="_blank"><i class="fab fa-linkedin"></i></a>
+                        <a href="https://www.instagram.com/dustmarijn/" target="_blank"><i
                                 class="fab fa-instagram"></i></a>
                         <a href="https://wa.me/qr/XH3Q5IF5N24HC1" target="_blank"><i class="fab fa-whatsapp"></i></a>
                         <a href="https://github.com/dustmarijn/" target="_blank"><i class="fab fa-github"></i></a>
