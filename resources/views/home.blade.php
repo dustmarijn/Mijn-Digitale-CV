@@ -15,6 +15,10 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="description" content="Marijn Boeve is een jonge man die een passie heeft voor programmeren! Wil je meer lezen bekijk dan mijn website!">
+    <link rel="canonical" href="http://marijnboeve.nl/" />
+    <meta name=”robots” content=”index, follow”>
+    <meta property="og:image" content="https://marijnboeve.nl/img/pf.jpg">
     <title>Marijn Boeve</title>
 </head>
 <body>
@@ -33,7 +37,7 @@
             <img src="/img/pf.jpg" class="p-2" width="20%" height="auto" style=" float: left;">
             <div>
                 <h1 class="bold">Marijn Boeve</h1>
-                <p class="text-secondary" style="max-width: 50vw;">Hallo! Ik ben Marijn, 18 jaar oud, en heb een liefde
+                <p class="text-secondary" style="max-width: 50vw;">Hallo! Ik ben Marijn, 19 jaar oud, en heb een liefde
                     voor programmeren. Ik ben al sinds 2018 bezig met
                     programmeren en cms’en. Op het moment
                     volg ik een opleiding in Application Development
