@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7ab8c5d3-7894-4fec-9911-95bd21699088" name="marijnboeve.nl" url="http://ftp.marijnboeve.nl">
+        <fileTransfer accessType="FTPS" host="ftp.marijnboeve.nl" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" enabledFtpsProtocols="TLSv1,TLSv1.1,TLSv1.2" passiveMode="true">
+              <option name="ftpsDisabledTls13" value="true" />
+            </advancedOptions>
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -19,10 +19,18 @@
 </head>
 <body>
 
-<div class="container">
+<div class="container d-lg-none">
+    <div class="alert alert-primary mt-5" role="alert">
+        <span>Hey, deze website is helaas nog niet beschikbaar voor dit apparaat, bekijk de website op een apparaat met een groter scherm!</span> <br>
+        <br>
+        <span>Groetjes van Marijn!</span>
+    </div>
+</div>
+
+<div class="container d-none d-lg-block">
     <div class="row mt-3">
         <div class="col-md-8">
-            <img src="/img/pf.png" class="p-2" width="20%" height="auto" style=" float: left;">
+            <img src="/img/pf.jpg" class="p-2" width="20%" height="auto" style=" float: left;">
             <div>
                 <h1 class="bold">Marijn Boeve</h1>
                 <p class="text-secondary" style="max-width: 50vw;">Hallo! Ik ben Marijn, 18 jaar oud, en heb een liefde
@@ -259,6 +267,10 @@
                     </div>
                 </div>
 
+                <div class="">
+                    <h3 class="bold mt-5">Random Feitjes</h3>
+                    <p>@foreach ($fact as $fact) {{ $fact->fact }} @endforeach</p>
+                </div>
 
                 <div class="">
                     <h3 class="bold mt-5">Social Media</h3>
