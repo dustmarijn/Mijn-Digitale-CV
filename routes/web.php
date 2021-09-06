@@ -20,3 +20,6 @@ use App\Http\Controllers\FactsController;
 
 Route::get('/', [FactsController::class, 'facts']);
 
+Route::get('/verloren', function () {
+    return view('verloren');
+});
