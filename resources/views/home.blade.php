@@ -15,8 +15,9 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <meta name="description" content="Marijn Boeve is een jonge man die een passie heeft voor programmeren! Wil je meer lezen bekijk dan mijn website!">
-    <link rel="canonical" href="http://marijnboeve.nl/" />
+    <meta name="description"
+          content="Marijn Boeve is een jonge man die een passie heeft voor programmeren! Wil je meer lezen bekijk dan mijn website!">
+    <link rel="canonical" href="http://marijnboeve.nl/"/>
     <meta name=”robots” content=”index, follow”>
     <meta property="og:image" content="https://marijnboeve.nl/img/pf.jpg">
     <title>Marijn Boeve</title>
@@ -25,7 +26,8 @@
 
 <div class="container d-lg-none">
     <div class="alert alert-primary mt-5" role="alert">
-        <span>Hey, deze website is helaas nog niet beschikbaar voor dit apparaat, bekijk de website op een apparaat met een groter scherm!</span> <br>
+        <span>Hey, deze website is helaas nog niet beschikbaar voor dit apparaat, bekijk de website op een apparaat met een groter scherm!</span>
+        <br>
         <br>
         <span>Groetjes van Marijn!</span>
     </div>
@@ -49,6 +51,17 @@
             <br>
             <div class="mt-4" style="max-width: 50vw;">
                 <h3 class="bold">Ervaring</h3>
+
+                <div class="mt-3">
+                    <h5>Sparerib Express</h5>
+                    <p class="text-muted">Sep ’21 - Heden</p>
+                    <div class="">
+                        <p class="text-muted font-italic" style="margin: 0px; padding: 0px;">
+                            Ik ben maaltijd bezorger bij de Sparerib Express in Zwolle, hier werk ik aan aantal avonden
+                            per week.
+                        </p>
+                    </div>
+                </div>
 
                 <div class="mt-3">
                     <h5>Persgroep Nederland</h5>
