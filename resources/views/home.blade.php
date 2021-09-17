@@ -88,7 +88,7 @@
                 </div>
 
                 <div class="mt-3">
-                    <h5>Infracom BV</h5>
+                    <h5>Infracom BV (Stage)</h5>
                     <p class="text-muted">Aug ’20 - Jan ‘21</p>
                     <div class="">
                         <p class="text-muted font-italic" style="margin: 0px; padding: 0px;">
@@ -101,7 +101,7 @@
 
             </div>
 
-            <div class="mt-4" style="max-width: 50vw;">
+            <div class="mt-5" style="max-width: 50vw;">
                 <h3 class="bold">Scholing</h3>
 
                 <div class="mt-3">
@@ -287,6 +287,11 @@
                 <div class="">
                     <h3 class="bold mt-5">Random Feitjes</h3>
                     <p>@foreach ($fact as $fact) {{ $fact->fact }} @endforeach</p>
+                </div>
+
+                <div class="">
+                    <h3 class="bold mt-5">Blog</h3>
+                    <p class="ml-2">Er zijn nog geen blog berichten!</p>
                 </div>
 
                 <div class="">
