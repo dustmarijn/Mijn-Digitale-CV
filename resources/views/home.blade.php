@@ -137,10 +137,6 @@
                 <div>
                     <a href="/bijlage/diploma.jpeg">Mavo Diploma</a>
                 </div>
-
-                <div>
-                    <a href="/bijlage/cv.png">Cv</a>
-                </div>
             </div>
         </div>
 
