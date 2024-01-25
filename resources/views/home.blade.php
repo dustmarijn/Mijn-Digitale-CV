@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="nl">
+<html lang="nl" prefix=”og: http://ogp.me/ns#">
 <head>
     <!-- Required meta tags -->
     <meta charset="utf-8">
@@ -39,23 +39,80 @@
             <img src="/img/pf.jpg" class="p-2" width="20%" height="auto" style=" float: left;">
             <div>
                 <h1 class="bold">Marijn Boeve</h1>
-                <p class="text-secondary" style="max-width: 50vw;">Hallo! Ik ben Marijn, 19 jaar oud, en heb een liefde
-                    voor programmeren. Ik ben al sinds 2018 bezig met
+                <p class="text-secondary" style="max-width: 50vw;">Hallo! Ik ben Marijn, 21 jaar oud, en heb een liefde
+                    voor programmeren. Ik ben al sinds 2017 bezig met
                     programmeren en cms’en. Op het moment
                     volg ik een opleiding in Application Development
                     die ik hoop snel af te ronden. Daarnaast hou ik me
                     graag bezig met foto en video grafie. Daarnaast ben
                     ik graag buiten en heb ik een actieve rol bij de lokale
-                    scouting vereniging in Hattem. </p>
+                    scouting vereniging in Hattem.</p>
             </div>
             <br>
             <div class="mt-4" style="max-width: 50vw;">
                 <h3 class="bold">Ervaring</h3>
+                
+                <div class="mt-3">
+                    <h5>Suneco BV (Functioneel beheerder)</h5>
+                    <p class="text-muted">Jun ’22 - Heden</p>
+                    <div class="content-bedrijf">
+                        <p class="text-muted font-italic" style="margin: 0px; padding: 0px;">
+                            Als Functioneel Beheerder bij suneco ben ik bezig met systemen voor klanten zodat het goed draait en rapporteer ik het verloop van de systemen die klanten bij ons hebben. Zie hieronder een aantal taken waar ik mij mee bezig hou:
+
+                            <ul class="mt-2 text-muted">
+                            <li>Sla rapporten maken.</li>
+                            <li>SSL centificaten beheer.</li>
+                            <li>Azure omgevingen bijhouden.</li>
+                            <li>Server monitoring.</li>
+                            <li>Helpdesk beheer.</li>
+                            </ul>
+                        </p>
+                    </div>
+                </div>
+                
+                <div class="mt-3">
+                    <h5>Suneco BV (Junior Software Developer)</h5>
+                    <p class="text-muted">Jan ’22 - Heden</p>
+                    <div class="content-bedrijf">
+                        <p class="text-muted font-italic" style="margin: 0px; padding: 0px;">
+                            Als Junior Software Developer bij Suneco hou ik me bezig met de laatste technieken rond Sitecore en Sitefinity. Mijn niveau is mbo en daardoor hou ik me vooral zelfstandig bezig met frontend werk en nog de simpelere c#/dotnet handelingen. Een aantal van de taken waar ik mee bezig ben zijn:
+                            
+                            <ul class="mt-2 text-muted">
+                            <li>Simpelere .Net taken.</li>
+                            <li>Frontend voor websites.</li>
+                            <li>Azure omgevingen bijhouden.</li>
+                            <li>Werken in teamverbanden</li>
+                            <li>Cursussen van het vakgebied.</li>
+                            <li>Sitecore CMS werk.</li>
+                            </ul>
+                        </p>
+                    </div>
+                </div>
+                
+                <div class="mt-3">
+                    <h5>Suneco BV (Stage)</h5>
+                    <p class="text-muted">Okt ’21 - Feb ’22</p>
+                    <div class="content-bedrijf">
+                        <p class="text-muted font-italic" style="margin: 0px; padding: 0px;">
+                            Bij Suneco loop ik mijn laatste stage voor mijn 'Applicatie en Media Ontwikkelaar' opleiding. Tijdens deze laatste stage periode ben ik vooral veel bezig met mijzelf ontwikkelen voor een goede overstap naar mijn volgende studie. Hieronder staan een aantal dingen die ik doe/ervaar bij Suneco en werk ik voor hun klanten:
+                            
+                            <ul class="mt-2 text-muted">
+                            <li>.Net gerelateerde verdiepingen</li>
+                            <li>Applicaties ombouwen</li>
+                            <li>Sitecore</li>
+                            <li>Werken in teamverbanden</li>
+                            <li>Umbraco CMS gerelateerd werk</li>
+                            <li>Azure omgevingen gebruiken</li>
+                            <li>Frontend werk op websites</li>
+                            </ul>
+                        </p>
+                    </div>
+                </div>
 
                 <div class="mt-3">
                     <h5>Sparerib Express</h5>
                     <p class="text-muted">Sep ’21 - Heden</p>
-                    <div class="">
+                    <div class="content-bedrijf">
                         <p class="text-muted font-italic" style="margin: 0px; padding: 0px;">
                             Ik ben maaltijd bezorger bij de Sparerib Express in Zwolle, hier werk ik aan aantal avonden
                             per week.
@@ -64,9 +121,21 @@
                 </div>
 
                 <div class="mt-3">
+                    <h5>Uitzonderlijk Design</h5>
+                    <p class="text-muted">Nov ’20 - Heden</p>
+                    <div class="content-bedrijf">
+                        <p class="text-muted font-italic" style="margin: 0px; padding: 0px;">
+                            Ik heb een eigen bedrijfje rondom het designen en programmeren van applicaties.
+                            Daarnaast maak ik voor klanten die iets simpels nodig hebben of een klein budget hebben
+                            een mooie Wordpress site. Ook doe ik veel server hosting voor klantprojecten en websites.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="mt-3">
                     <h5>Persgroep Nederland</h5>
-                    <p class="text-muted">Sep ’16 - Heden</p>
-                    <div class="">
+                    <p class="text-muted">Sep ’16 - Jan ’22 </p>
+                    <div class="content-bedrijf">
                         <p class="text-muted font-italic" style="margin: 0px; padding: 0px;">
                             Ik bezorg de ochtendkranten in een deel van Wapenveld. 6 dagen
                             per week stap ik voor dat het licht schijnt op de fiets en breng ik bijna
@@ -76,21 +145,9 @@
                 </div>
 
                 <div class="mt-3">
-                    <h5>Uitzonderlijk Design</h5>
-                    <p class="text-muted">Nov ’20 - Heden</p>
-                    <div class="">
-                        <p class="text-muted font-italic" style="margin: 0px; padding: 0px;">
-                            Ik heb een eigen bedrijfje rondom het designen en programmeren van applicaties.
-                            Daarnaast maak ik voor klanten die iets simpels nodig hebben of een klein budget hebben
-                            een mooie Wordpress site.
-                        </p>
-                    </div>
-                </div>
-
-                <div class="mt-3">
                     <h5>Infracom BV (Stage)</h5>
                     <p class="text-muted">Aug ’20 - Jan ‘21</p>
-                    <div class="">
+                    <div class="content-bedrijf">
                         <p class="text-muted font-italic" style="margin: 0px; padding: 0px;">
                             Ik heb tijdens deze stage veel gewerkt met Pascal en veel database
                             werk verricht. Daarnaast heb ik ook geleerd hoe je het best iets kunt
@@ -107,7 +164,7 @@
                 <div class="mt-3">
                     <h5>Landstede MBO</h5>
                     <p class="text-muted">Aug ’19 - Heden</p>
-                    <div class="">
+                    <div class="content-bedrijf">
                         <p class="text-muted font-italic" style="margin: 0px; padding: 0px;">
                             Ik volg een niveau 4 opleiding tot Applicatie Ontwikkelaar, deze opleiding duurt 3 jaar en
                             ben ik versneld aan het volgen!
@@ -118,7 +175,7 @@
                 <div class="mt-3">
                     <h5>Noordgouw Heerde</h5>
                     <p class="text-muted">Aug ’15 - Jul ’19</p>
-                    <div class="">
+                    <div class="content-bedrijf">
                         <p class="text-muted font-italic" style="margin: 0px; padding: 0px;">
                             Ik heb de Mavo afgerond op de Noordgouw in Heerde. Hier ben ik voor het eerst echt begonnen
                             met programmeren. Ik heb namelijk een HTML en CSS cursus geschreven.
@@ -254,6 +311,17 @@
                     </div>
                     <div class="progress">
                         <div class="progress-bar" role="progressbar" style="width: 30%" aria-valuenow="30"
+                             aria-valuemin="0" aria-valuemax="100"></div>
+                    </div>
+                </div>
+                
+                <div class="mt-3">
+                    <div>
+                        <i class="fab fa-microsoft fs-4"></i>
+                        C# (.NET)
+                    </div>
+                    <div class="progress">
+                        <div class="progress-bar" role="progressbar" style="width: 25%" aria-valuenow="25"
                              aria-valuemin="0" aria-valuemax="100"></div>
                     </div>
                 </div>
